@@ -1,0 +1,11 @@
+1. Data types 
+    - string: text 
+        "hello world"
+        "hello" + "world" 
+    - number
+        -1
+        10.5
+        -5
+    - boolean: true/false 
+    - undefined: nothing 
+    - null: nothing
