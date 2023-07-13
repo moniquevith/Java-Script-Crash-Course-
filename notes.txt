@@ -12,3 +12,7 @@
 
 2. variables 
     - store data 
+    - defining a variable: 
+        var 
+        let 
+        const
